@@ -32,7 +32,7 @@ public class MyComponent implements ApplicationComponent {
     public void sayHello() {
         // Show dialog with message
         Messages.showMessageDialog(
-                "Hello World!",
+                "Hello World! by 麟麟麟麟麟麟麟",
                 "Sample",
                 Messages.getInformationIcon()
         );
